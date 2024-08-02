@@ -1,1 +1,4 @@
 *.jar
+abc.log
+.gitignore.swo
+.gitignore.swp
